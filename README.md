@@ -49,13 +49,11 @@ Sürükle-bırak, klasör sistemi, localStorage kalıcılığı, özel SVG ikonl
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Jubbio RPG Bot
-Türkiye'nin Discord alternatifinde çalışan,
-sıfırdan yazılmış metin tabanlı otel RPG'si.
-Açık artırma sistemi, envanter ekonomisi, SQLite.
-Platform neredeyse döküman yok. Sorun değil.
+### 📦 [StepByStep](https://github.com/EfeYok/StepByStep)
+StepByStep, sizin belirlediğiniz dizindeki tüm değişiklikleri istatistikleriyle beraber belirlediğiniz aralıkta veya manuel olarak yedekler.
+Farklı bir dizinde .zip formatında tutar.
 
-`Node.js` `better-sqlite3` `REST API`
+`Python` `Shell` `TUI`
 
 </td>
 </tr>
@@ -72,7 +70,7 @@ Platform neredeyse döküman yok. Sorun değil.
 | **Frontend** | HTML · CSS · JavaScript · SVG |
 | **Backend** | Node.js · Express · SQLite |
 | **Araçlar** | Git · Linux · Hyprland · Vercel |
-| **İlgi Alanları** | Oyun sistemleri · Bot geliştirme · Web UX |
+| **İlgi Alanları** | Siber Güvenlik · Cihaz içi otomasyonlar · Kategorize düzenli uygulamalar|
 
 </div>
 
